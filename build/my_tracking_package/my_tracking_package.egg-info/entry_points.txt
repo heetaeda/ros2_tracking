@@ -1,0 +1,5 @@
+[console_scripts]
+marker_tracking_turtlebot4_node = my_tracking_package.marker_tracking_turtlebot4_node:main
+object_tracking_node = my_tracking_package.object_tracking_node:main
+turtlebot_controller_node = my_tracking_package.turtlebot_controller_node:main
+turtlebot_move_node = my_tracking_package.turtlebot_move_node:main

@@ -1,0 +1,37 @@
+[0.467s] Invoking command in '/home/yoon/ros2_tracking/src/my_tracking_package': PYTHONPATH=/home/yoon/ros2_tracking/build/my_tracking_package/prefix_override:/home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_tracking_package build --build-base /home/yoon/ros2_tracking/build/my_tracking_package/build install --record /home/yoon/ros2_tracking/build/my_tracking_package/install.log --single-version-externally-managed install_data
+[0.611s] running egg_info
+[0.611s] creating ../../build/my_tracking_package/my_tracking_package.egg-info
+[0.620s] writing ../../build/my_tracking_package/my_tracking_package.egg-info/PKG-INFO
+[0.620s] writing dependency_links to ../../build/my_tracking_package/my_tracking_package.egg-info/dependency_links.txt
+[0.620s] writing entry points to ../../build/my_tracking_package/my_tracking_package.egg-info/entry_points.txt
+[0.620s] writing requirements to ../../build/my_tracking_package/my_tracking_package.egg-info/requires.txt
+[0.620s] writing top-level names to ../../build/my_tracking_package/my_tracking_package.egg-info/top_level.txt
+[0.672s] writing manifest file '../../build/my_tracking_package/my_tracking_package.egg-info/SOURCES.txt'
+[0.691s] reading manifest file '../../build/my_tracking_package/my_tracking_package.egg-info/SOURCES.txt'
+[0.691s] writing manifest file '../../build/my_tracking_package/my_tracking_package.egg-info/SOURCES.txt'
+[0.691s] running build
+[0.691s] running build_py
+[0.692s] creating /home/yoon/ros2_tracking/build/my_tracking_package/build
+[0.692s] creating /home/yoon/ros2_tracking/build/my_tracking_package/build/lib
+[0.692s] creating /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.692s] copying my_tracking_package/object_tracking_node.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.692s] copying my_tracking_package/__init__.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.692s] running install
+[0.695s] running install_lib
+[0.704s] creating /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package
+[0.704s] copying /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package/object_tracking_node.py -> /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package
+[0.704s] copying /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package/__init__.py -> /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package
+[0.704s] byte-compiling /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package/object_tracking_node.py to object_tracking_node.cpython-38.pyc
+[0.704s] byte-compiling /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package/__init__.py to __init__.cpython-38.pyc
+[0.704s] running install_data
+[0.704s] creating /home/yoon/ros2_tracking/install/my_tracking_package/share/ament_index
+[0.704s] creating /home/yoon/ros2_tracking/install/my_tracking_package/share/ament_index/resource_index
+[0.704s] creating /home/yoon/ros2_tracking/install/my_tracking_package/share/ament_index/resource_index/packages
+[0.704s] copying resource/my_tracking_package -> /home/yoon/ros2_tracking/install/my_tracking_package/share/ament_index/resource_index/packages
+[0.704s] copying package.xml -> /home/yoon/ros2_tracking/install/my_tracking_package/share/my_tracking_package
+[0.704s] running install_egg_info
+[0.714s] Copying ../../build/my_tracking_package/my_tracking_package.egg-info to /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package-0.0.0-py3.8.egg-info
+[0.714s] running install_scripts
+[0.736s] Installing object_tracking_node script to /home/yoon/ros2_tracking/install/my_tracking_package/lib/my_tracking_package
+[0.736s] writing list of installed files to '/home/yoon/ros2_tracking/build/my_tracking_package/install.log'
+[0.751s] Invoked command in '/home/yoon/ros2_tracking/src/my_tracking_package' returned '0': PYTHONPATH=/home/yoon/ros2_tracking/build/my_tracking_package/prefix_override:/home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_tracking_package build --build-base /home/yoon/ros2_tracking/build/my_tracking_package/build install --record /home/yoon/ros2_tracking/build/my_tracking_package/install.log --single-version-externally-managed install_data

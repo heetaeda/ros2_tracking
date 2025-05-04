@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/my_tracking_package/my_tracking_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_tracking_package/my_tracking_package.egg-info/dependency_links.txt
+writing entry points to ../../build/my_tracking_package/my_tracking_package.egg-info/entry_points.txt
+writing requirements to ../../build/my_tracking_package/my_tracking_package.egg-info/requires.txt
+writing top-level names to ../../build/my_tracking_package/my_tracking_package.egg-info/top_level.txt
+reading manifest file '../../build/my_tracking_package/my_tracking_package.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_tracking_package/my_tracking_package.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_tracking_package/object_tracking_node.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+copying my_tracking_package/__init__.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+copying my_tracking_package/turtlebot_move_node.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+running install
+running install_lib
+copying /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package/object_tracking_node.py -> /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package
+copying /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package/turtlebot_move_node.py -> /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package
+byte-compiling /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package/object_tracking_node.py to object_tracking_node.cpython-38.pyc
+byte-compiling /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package/turtlebot_move_node.py to turtlebot_move_node.cpython-38.pyc
+running install_data
+copying resource/my_tracking_package -> /home/yoon/ros2_tracking/install/my_tracking_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/yoon/ros2_tracking/install/my_tracking_package/share/my_tracking_package
+running install_egg_info
+removing '/home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/my_tracking_package/my_tracking_package.egg-info to /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package-0.0.0-py3.8.egg-info
+running install_scripts
+Installing object_tracking_node script to /home/yoon/ros2_tracking/install/my_tracking_package/lib/my_tracking_package
+Installing turtlebot_move_node script to /home/yoon/ros2_tracking/install/my_tracking_package/lib/my_tracking_package
+writing list of installed files to '/home/yoon/ros2_tracking/build/my_tracking_package/install.log'

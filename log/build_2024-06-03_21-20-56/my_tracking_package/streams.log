@@ -1,0 +1,31 @@
+[0.489s] Invoking command in '/home/yoon/ros2_tracking/src/my_tracking_package': PYTHONPATH=/home/yoon/ros2_tracking/build/my_tracking_package/prefix_override:/home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_tracking_package build --build-base /home/yoon/ros2_tracking/build/my_tracking_package/build install --record /home/yoon/ros2_tracking/build/my_tracking_package/install.log --single-version-externally-managed install_data
+[0.636s] running egg_info
+[0.645s] writing ../../build/my_tracking_package/my_tracking_package.egg-info/PKG-INFO
+[0.645s] writing dependency_links to ../../build/my_tracking_package/my_tracking_package.egg-info/dependency_links.txt
+[0.645s] writing entry points to ../../build/my_tracking_package/my_tracking_package.egg-info/entry_points.txt
+[0.645s] writing requirements to ../../build/my_tracking_package/my_tracking_package.egg-info/requires.txt
+[0.646s] writing top-level names to ../../build/my_tracking_package/my_tracking_package.egg-info/top_level.txt
+[0.718s] reading manifest file '../../build/my_tracking_package/my_tracking_package.egg-info/SOURCES.txt'
+[0.719s] writing manifest file '../../build/my_tracking_package/my_tracking_package.egg-info/SOURCES.txt'
+[0.719s] running build
+[0.719s] running build_py
+[0.719s] copying my_tracking_package/object_tracking_node.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.719s] copying my_tracking_package/__init__.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.719s] copying my_tracking_package/turtlebot_move_node.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.719s] copying my_tracking_package/marker_tracking_turtlebot4_node.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.719s] copying my_tracking_package/turtlebot_controller_node.py -> /home/yoon/ros2_tracking/build/my_tracking_package/build/lib/my_tracking_package
+[0.719s] running install
+[0.722s] running install_lib
+[0.732s] running install_data
+[0.732s] copying resource/my_tracking_package -> /home/yoon/ros2_tracking/install/my_tracking_package/share/ament_index/resource_index/packages
+[0.732s] copying package.xml -> /home/yoon/ros2_tracking/install/my_tracking_package/share/my_tracking_package
+[0.732s] running install_egg_info
+[0.742s] removing '/home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package-0.0.0-py3.8.egg-info' (and everything under it)
+[0.742s] Copying ../../build/my_tracking_package/my_tracking_package.egg-info to /home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages/my_tracking_package-0.0.0-py3.8.egg-info
+[0.743s] running install_scripts
+[0.766s] Installing marker_tracking_turtlebot4_node script to /home/yoon/ros2_tracking/install/my_tracking_package/lib/my_tracking_package
+[0.766s] Installing object_tracking_node script to /home/yoon/ros2_tracking/install/my_tracking_package/lib/my_tracking_package
+[0.766s] Installing turtlebot_controller_node script to /home/yoon/ros2_tracking/install/my_tracking_package/lib/my_tracking_package
+[0.766s] Installing turtlebot_move_node script to /home/yoon/ros2_tracking/install/my_tracking_package/lib/my_tracking_package
+[0.766s] writing list of installed files to '/home/yoon/ros2_tracking/build/my_tracking_package/install.log'
+[0.781s] Invoked command in '/home/yoon/ros2_tracking/src/my_tracking_package' returned '0': PYTHONPATH=/home/yoon/ros2_tracking/build/my_tracking_package/prefix_override:/home/yoon/ros2_tracking/install/my_tracking_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_tracking_package build --build-base /home/yoon/ros2_tracking/build/my_tracking_package/build install --record /home/yoon/ros2_tracking/build/my_tracking_package/install.log --single-version-externally-managed install_data
