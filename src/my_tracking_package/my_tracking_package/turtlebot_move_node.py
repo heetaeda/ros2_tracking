@@ -27,6 +27,8 @@ class ObjectTrackingController(Node):
             twist_msg.linear.x = 0.2  # 전진
         self.cmd_vel_pub.publish(twist_msg)
 
+# test change
+
 def main(args=None):
     rp.init(args=args)
     controller = ObjectTrackingController()
